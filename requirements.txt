@@ -1,0 +1,6 @@
+transformers==4.40.1
+sentence-transformers==2.7.0
+torch==2.1.0       # Regular version; replaced manually in Dockerfile with CPU-only
+scikit-learn
+numpy<2.0
+pdfminer.six==20221105
