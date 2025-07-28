@@ -80,3 +80,4 @@ You can define any number of interest areas and assign weights (0–1).
 
 ---
 
+© Challenge 1B — Adobe Hackathon
