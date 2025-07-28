@@ -1,0 +1,35 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Model files
+model/all-MiniLM-L6-v2/
+!model/.gitkeep  # Optional: keep folder structure if empty
+
+# Input/Output folders
+input/
+output/
+!input/.gitkeep
+!output/.gitkeep
+
+# Environment files
+.env
+*.env
+
+# Jupyter files (if used)
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
